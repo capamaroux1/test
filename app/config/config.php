@@ -18,8 +18,8 @@ return [
 
 	'email' => [
 		'host' => 'smtp.mailtrap.io',
-		'username' => '984439c0a1f992',
-		'password' => 'c8aeca6c61cf93',
+		'username' => '',
+		'password' => '',
 		'port' => 2525,
 		'SMTPSecure' => 'tls',
 		'from' => [

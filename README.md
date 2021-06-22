@@ -4,8 +4,8 @@
 Χρησιμοποιείται μόνο η βιβλιοθήκη PHPMailer για την αποστολή των email ενώ στο front γίνεται χρήση bootstrap 4.6 και jquery 3.6.
 
 ## Απαιτήσεις
-PHP 7.4 or greater
-MySQL 5.7 or greater
+PHP >=7.4
+MySQL >= 5.7
 
 ## Ρυθμίσεις εφαρμογής
 
